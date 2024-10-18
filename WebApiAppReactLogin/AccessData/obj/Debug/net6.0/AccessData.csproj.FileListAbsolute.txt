@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\bin\Debug\net6.0\AccessData.deps.json
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\bin\Debug\net6.0\AccessData.dll
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\bin\Debug\net6.0\AccessData.pdb
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\bin\Debug\net6.0\Entities.dll
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\bin\Debug\net6.0\Entities.pdb
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\obj\Debug\net6.0\AccessData.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\obj\Debug\net6.0\AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\obj\Debug\net6.0\AccessData.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\obj\Debug\net6.0\AccessData.AssemblyInfo.cs
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\obj\Debug\net6.0\AccessData.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\obj\Debug\net6.0\AccessData.csproj.CopyComplete
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\obj\Debug\net6.0\AccessData.dll
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\obj\Debug\net6.0\refint\AccessData.dll
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\obj\Debug\net6.0\AccessData.pdb
+C:\Users\Luis\Desktop\TestWorks\WebApiAppReactLogin\AccessData\obj\Debug\net6.0\ref\AccessData.dll

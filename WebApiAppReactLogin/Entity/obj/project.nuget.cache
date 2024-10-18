@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/nP0nMVeSeRxNgOu5xOgIbDkCbqJhcW8Yaw1PQANq3ru2z/07Mdzl0UmoqEm6QIXz/nHg6bwDr/QiVYBiqeyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luis\\Desktop\\TestWorks\\WebApiAppReactLogin\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
